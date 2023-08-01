@@ -1,6 +1,7 @@
 "# summer2023-class" 
 ### OS 燒錄
 * [CM4 燒錄](https://www.waveshare.net/wiki/CM4_Burn_SD)
+* [Magic mirror](https://www.waveshare.net/wiki/13.3inch_Magic_Mirror)
 ### 工具下載
 * [putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 * [MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html)
