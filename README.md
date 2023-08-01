@@ -4,6 +4,7 @@
 * [Magic mirror](https://www.waveshare.net/wiki/13.3inch_Magic_Mirror)
 ### Google Assistant
 * [audio record](https://developers.google.com/assistant/sdk/guides/service/python/embed/audio?hl=zh-tw)
+* [Rpi install instructions](https://maker.pro/raspberry-pi/projects/raspberry-pi-google-assistant-with-custom-device-actions)
 ### 工具下載
 * [putty](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
 * [MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html)
