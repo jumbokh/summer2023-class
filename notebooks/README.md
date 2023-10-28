@@ -1,4 +1,5 @@
-```針對每個元素分別處理```
+#### 針對每個元素分別處理
+```
 def add(c):    
     return c**2
 l = [1,2,3]
@@ -8,3 +9,4 @@ d2 = [c**2 for c in l]
 print(d2)
 d3 = [add(c) for c in l]
 print(d3)
+```
