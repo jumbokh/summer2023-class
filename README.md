@@ -1,4 +1,6 @@
 "# summer2023-class" 
+### [GeminiOriChat setup Youtube](https://www.youtube.com/watch?v=xefaQug_eyk)
+* [my GeminiPro](https://gemini-pro-chat-g2x5mtwda-jumbokhs-projects.vercel.app/)
 ### OS 燒錄
 * [CM4 燒錄](https://www.waveshare.net/wiki/CM4_Burn_SD)
 * [Magic mirror](https://www.waveshare.net/wiki/13.3inch_Magic_Mirror)
